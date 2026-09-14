@@ -4,7 +4,7 @@ M. Adzka Al-Afif__09011382530141__50 commands Ubuntu
 pwd
 
 
-<img width="800" height="243" alt="image" src="https://github.com/user-attachments/assets/dbe856e6-438e-468b-921b-769e199fc613" />
+<img width="800" height="146" alt="image" src="https://github.com/user-attachments/assets/eb8ce52d-4a7f-4ff7-8e8b-21ff5855219b" />
 
 # 2. Melihat File
 ls
