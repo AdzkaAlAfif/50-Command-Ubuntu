@@ -32,7 +32,8 @@ cd folder
 cd 
 
 
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/fc1b966e-0e0e-4ea9-920f-35ea9b1cdfef" />
+<img width="800" height="137" alt="image" src="https://github.com/user-attachments/assets/f5338458-10f3-4d30-8f86-2294a03a6faf" />
+
 
 # 7. Membuat File
 touch file.txt
@@ -103,41 +104,80 @@ date
 # 18. Melihat Nama Komputer
 hostname
 
+
+<img width="800" height="126" alt="image" src="https://github.com/user-attachments/assets/557ce4d1-a9ea-4c3d-be26-ac0d2b4437b6" />
+
 # 19. Melihat Sistem
 uname
+
+
+<img width="800" height="144" alt="image" src="https://github.com/user-attachments/assets/8f121032-3eb4-4961-b11f-3641685f4f57" />
 
 # 20. Melihat Versi Sistem
 uname -r
 
+
+<img width="800" height="139" alt="image" src="https://github.com/user-attachments/assets/590bf864-ac25-44b5-b361-4de26ab37942" />
+
 # 21. Melihat Waktu Sistem
 uptime
+
+
+<img width="800" height="126" alt="image" src="https://github.com/user-attachments/assets/4623f7a3-fac3-4b52-9e5a-ccdf4f9fb834" />
 
 # 22. Membersihkan Terminal
 clear
 
+
+<img width="800" height="109" alt="image" src="https://github.com/user-attachments/assets/845e555f-f7c2-4e44-8643-9d530eb93d27" />
+
 # 23. Menampilkan Pesan
 echo "Halo"
+
+
+<img width="800" height="128" alt="image" src="https://github.com/user-attachments/assets/f9e7c69c-8110-4732-9dd1-c9b58f2b76c5" />
 
 # 24. Menampilkan Nama
 echo "Nama Saya"
 
+
+<img width="800" height="105" alt="image" src="https://github.com/user-attachments/assets/466a64cc-a245-495d-9ee5-5bfac9f006bd" />
+
 # 25. Membuat File A
 touch a.txt
+
+
+<img width="800" height="136" alt="image" src="https://github.com/user-attachments/assets/f446c97d-3ab9-4752-b6bb-1a70ef01c9c1" />
 
 # 26. Membuat File B
 touch b.txt
 
+
+<img width="800" height="136" alt="image" src="https://github.com/user-attachments/assets/5afc7426-0494-451a-bbd6-b9052a50744d" />
+
 # 27. Membuat File C
 touch c.txt
+
+
+<img width="800" height="136" alt="image" src="https://github.com/user-attachments/assets/3c6a7e24-85f2-441e-a9e8-85a2bafe3d70" />
 
 # 28. Melihat File Detail
 ls -l
 
+
+<img width="800" height="359" alt="image" src="https://github.com/user-attachments/assets/e3617e3e-bbc1-4995-bbb9-5874e58dad49" />
+
 # 29. Melihat Ukuran File
 ls -lh
 
+
+<img width="800" height="347" alt="image" src="https://github.com/user-attachments/assets/f853a23a-934c-41fa-828a-834b0408ed01" />
+
 # 30. Menampilkan Baris Pertama
 head file.txt
+
+
+<img width="800" height="115" alt="image" src="https://github.com/user-attachments/assets/f88517ef-8886-4e5a-867b-ce6dc128196c" />
 
 # 31. Menampilkan Baris Terakhir
 tail file.txt
