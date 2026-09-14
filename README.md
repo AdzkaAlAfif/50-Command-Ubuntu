@@ -1,5 +1,5 @@
-#M. Adzka Al-Afif_09011382530141
-#50 commands Ubuntu
+M. Adzka Al-Afif_09011382530141
+50 commands Ubuntu
 
 # 1. Menampilkan Lokasi
 pwd
