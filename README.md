@@ -1,5 +1,7 @@
 # 1. Menampilkan Lokasi
 pwd
+
+
 <img width="800" height="243" alt="image" src="https://github.com/user-attachments/assets/dbe856e6-438e-468b-921b-769e199fc613" />
 
 # 2. Melihat File
