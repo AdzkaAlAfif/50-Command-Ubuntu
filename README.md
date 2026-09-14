@@ -1,5 +1,6 @@
 # 1. Menampilkan Lokasi
 pwd
+<img width="800" height="243" alt="image" src="https://github.com/user-attachments/assets/dbe856e6-438e-468b-921b-769e199fc613" />
 
 # 2. Melihat File
 ls
@@ -133,8 +134,8 @@ cat test.txt
 # 45. Menghapus File Test
 rm test.txt
 
-# 46. Kembali ke Home
-cd ~
+# 46. melihat id
+id
 
 # 47. Menghapus Folder Test
 rmdir test
