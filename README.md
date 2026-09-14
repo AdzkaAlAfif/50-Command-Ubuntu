@@ -1,4 +1,8 @@
-M. Adzka Al-Afif__09011382530141__50 commands Ubuntu
+# 50 Commands Ubuntu
+
+*Nama:* M. Adzka Al-Afif  
+*NIM:* 09011382530141
+
 
 # 1. Menampilkan Lokasi
 pwd
