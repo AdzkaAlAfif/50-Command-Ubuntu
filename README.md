@@ -7,11 +7,20 @@ pwd
 # 2. Melihat File
 ls
 
+
+<img width="800" height="132" alt="image" src="https://github.com/user-attachments/assets/845e5009-8823-4bc7-8f2d-b0c62dd4d4d8" />
+
 # 3. Melihat Semua File
 ls -a
 
+
+<img width="800" height="198" alt="image" src="https://github.com/user-attachments/assets/47c67836-4291-4ad1-a5c8-77de4e9b5f60" />
+
 # 4. Membuat Folder
 mkdir folder
+
+
+<img width="800" height="124" alt="image" src="https://github.com/user-attachments/assets/a82f848c-98ac-4de8-95de-51e51c304643" />
 
 # 5. Masuk Folder
 cd folder
