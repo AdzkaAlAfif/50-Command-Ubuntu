@@ -182,59 +182,119 @@ head file.txt
 # 31. Menampilkan Baris Terakhir
 tail file.txt
 
+
+<img width="800" height="148" alt="image" src="https://github.com/user-attachments/assets/b43371cc-2ff0-407c-af2c-2a728f180089" />
+
 # 32. Menghitung Baris
 wc -l file.txt
+
+
+<img width="800" height="145" alt="image" src="https://github.com/user-attachments/assets/4906a44f-ad93-4d76-a754-d602387656c9" />
 
 # 33. Menghitung Kata
 wc -w file.txt
 
+
+<img width="800" height="150" alt="image" src="https://github.com/user-attachments/assets/a9add497-99c2-49d8-82cc-fb6e6f600f33" />
+
 # 34. Menghitung Karakter
 wc -c file.txt
+
+
+<img width="800" height="154" alt="image" src="https://github.com/user-attachments/assets/eedbf5bf-e051-4db2-ac55-b9d045bd277c" />
 
 # 35. Mencari File
 find . -name "file.txt"
 
+
+<img width="800" height="155" alt="image" src="https://github.com/user-attachments/assets/ddc70628-8493-4a13-8a5f-a8b52f187e38" />
+
 # 36. Mencari Teks
 grep "Hello" file.txt
+
+
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/9958db94-925b-4101-a92c-e9c8956b6215" />
 
 # 37. Melihat Isi Folder
 ls folder
 
+
+<img width="800" height="114" alt="image" src="https://github.com/user-attachments/assets/f75a59fc-c198-4340-9f94-0f8337354397" />
+
 # 38. Masuk Folder Kedua
 cd folder2
+
+
+<img width="800" height="137" alt="image" src="https://github.com/user-attachments/assets/b6006015-754a-4f3e-bd81-518c92c2a9f7" />
 
 # 39. Kembali ke Home
 cd ~
 
+
+<img width="800" height="111" alt="image" src="https://github.com/user-attachments/assets/ae2c4431-fde2-4bd3-ba9d-f4837f6fd90e" />
+
 # 40. Membuat Folder Test
 mkdir test
+
+
+<img width="800" height="156" alt="image" src="https://github.com/user-attachments/assets/ff45d803-2c93-4a6b-8948-611f8740ad07" />
 
 # 41. Masuk Folder Test
 cd test
 
+
+<img width="800" height="119" alt="image" src="https://github.com/user-attachments/assets/a8606ba5-958f-4dbf-bc13-69b108207367" />
+
 # 42. Membuat File Test
 touch test.txt
+
+
+<img width="800" height="117" alt="image" src="https://github.com/user-attachments/assets/7c1250f6-01f7-43b0-929f-09eb3efc31fb" />
 
 # 43. Menulis File Test
 echo "Test" > test.txt
 
+
+<img width="800" height="147" alt="image" src="https://github.com/user-attachments/assets/35e52a38-6f35-4938-b7e6-2f3437045748" />
+
 # 44. Membaca File Test
 cat test.txt
+
+
+<img width="800" height="139" alt="image" src="https://github.com/user-attachments/assets/c6b73c2b-3a95-4687-a35e-6f698a8d226e" />
 
 # 45. Menghapus File Test
 rm test.txt
 
+
+<img width="800" height="178" alt="image" src="https://github.com/user-attachments/assets/2561a725-ebe9-44f4-bc74-0c5aaf88ad1e" />
+
 # 46. melihat id
 id
+
+
+<img width="800" height="192" alt="image" src="https://github.com/user-attachments/assets/23560b5b-e0f4-4efd-ad85-cf07a07e67e0" />
 
 # 47. Menghapus Folder Test
 rmdir test
 
+
+<img width="800" height="130" alt="image" src="https://github.com/user-attachments/assets/3e416785-6649-433e-8b0a-dfd60ebdcfb3" />
+
 # 48. Melihat Kapasitas Disk
 df -h
+
+
+<img width="800" height="274" alt="image" src="https://github.com/user-attachments/assets/2926d806-e967-472e-9ca6-c5b6e6ccfd68" />
 
 # 49. Melihat Memori
 free -h
 
+
+<img width="800" height="189" alt="image" src="https://github.com/user-attachments/assets/33f39207-6d5c-4401-8220-b1d3e6bb02b9" />
+
 # 50. Melihat Informasi CPU
 lscpu
+
+
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/de90fb6d-8bf1-43af-9e53-67fcb1400d11" />
